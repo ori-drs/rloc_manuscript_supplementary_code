@@ -23,7 +23,7 @@ the environment and then run:
 
 ```
 cd $PROJECT_ROOT/jet_leg_common
-python install -e .
+pip install -e .
 ```
 
 And then
